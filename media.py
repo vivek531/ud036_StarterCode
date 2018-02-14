@@ -14,4 +14,3 @@ class Movie(object):
         self.title = title
         self.trailer_youtube_url = trailer_youtube_url
         self.poster_image_url = poster_image_url
-

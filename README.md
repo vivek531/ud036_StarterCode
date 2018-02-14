@@ -1,8 +1,16 @@
-# ud036_StarterCode
-Source code for a Movie Trailer website.
+# Goal
 
-#running the code
-#go to the directory where the project is located.
-#run the following command in the terminal
+Create a HTML file from given movies list and show it in the browser.
+
+### How it works
+
+Just clone the repository and change directory to point to the repo.
+Run the following command
 
 python entertainment_center.py
+
+### Source code for a Movie Trailer website.
+
+There is a Movie class. How to create movie objects and how to render
+an HTML from the list of movies.
+
